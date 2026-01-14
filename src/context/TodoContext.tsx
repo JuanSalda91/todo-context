@@ -3,7 +3,7 @@ import {
   useContext,
   useReducer,
   useEffect,
-  ReactNode,
+  type ReactNode,
   useMemo,
   useCallback,
 } from 'react';
